@@ -9,24 +9,43 @@ This project is a Java console-based Voting System that allows users to cast vot
 - Vote for candidates
 - Display live voting results
 - Menu-driven interface
-- Input validation
 
 ---
 
 ## 🛠 Technologies Used
-- Java (Core Java)
-- Scanner class
-- HashMap collection
+- Java
+- HashMap
+- Scanner
 
 ---
 
 ## 📚 Concepts Applied
-- Object-Oriented Programming
-- HashMap (Key-Value storage)
-- Loops and conditional statements
-- User input handling
+- OOP
+- Java Collections
+- Loops and conditions
 
 ---
 
 ## ▶ How to Run
-1. Compile the program:
+javac Main.java  
+java Main  
+
+---
+
+## 🎯 Learning Outcomes
+- Implemented real-world voting logic
+- Practiced Java collections
+- Strengthened control flow concepts
+
+---
+
+## 🔮 Future Enhancements
+- Add voter authentication
+- Prevent duplicate voting
+- Store results in file/database
+- GUI version using JavaFX
+
+---
+
+## 👨‍💻 Author
+Developed by Monty
